@@ -21,11 +21,13 @@ knit        : slidify::knit2slides
 
 ## Slide 2
 
-dsujyhfhdfuhdgu
+Raquel Lobo
 
 ---
 
 ## Slide 3
+
+Experiência
 
 ---
 
