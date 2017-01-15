@@ -21,6 +21,12 @@ knit        : slidify::knit2slides
 
 ## Slide 2
 
+fsjhdgshdhgsv
 
+---
+
+shdfshdhg
+
+---
 
 
